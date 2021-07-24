@@ -1,6 +1,7 @@
 #test and training dataset
-kaggle\input\nlp-getting-started\test.csv
-kaggle\input\nlp-getting-started\train.csv
+test.csv
+train.csv
+#Test comment
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
